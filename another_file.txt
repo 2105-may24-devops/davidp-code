@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 another file!!! and now this
+=======
+replaced old text with this:wq
+
+>>>>>>> d087dc7bab2b95fb636a1b7ed26fa9a296f9ba60
